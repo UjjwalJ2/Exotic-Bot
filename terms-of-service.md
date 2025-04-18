@@ -2,6 +2,7 @@
 
 Exotic Discord Bot — Terms and Conditions  
 Welcome to **Exotic**, the luxury-grade multipurpose Discord bot. By inviting and using Exotic within your Discord server, you agree to comply with the following Terms of Service ("Terms"). These Terms are designed to ensure a safe, compliant, and user-friendly experience for all users. Use of Exotic also constitutes acceptance of our [Privacy Policy](https://github.com/UjjwalJ2/exotic-bot/blob/main/privacy-policy.md).
+
 ---
 
 ## 1. Definitions
